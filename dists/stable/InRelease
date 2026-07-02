@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 02 Jul 2026 14:27:49 +0000
+Label: VideoKidnapper
+Origin: VideoKidnapper
+Suite: stable
+MD5Sum:
+ a4c27b5b1e26753d6195dedec23811c5              152 Release
+ 0152aa8b051c7298788e29d8799cf870              979 main/binary-amd64/Packages
+ 15cfd96328783a7d79b5c152bacef3ec              679 main/binary-amd64/Packages.gz
+SHA1:
+ 44770b1ed1fe72d23fb42f09ff9b3fe0890ff315              152 Release
+ 7e82bf46017d3b61a9c09d68429caa5e2ef5caa2              979 main/binary-amd64/Packages
+ 4e743775f8f5dc65f1a56961aeace66376f15509              679 main/binary-amd64/Packages.gz
+SHA256:
+ e05a338fb3f4ae669760ed611d787502c968e825d18b716817613ccaf6ea2227              152 Release
+ 1ca801d7e8c0d47e8db473d4908cdf2fbbb0e13b27fcda99488658bccb8e5726              979 main/binary-amd64/Packages
+ 07ac3489c98a16b64d8dc057de55549487682ce763abda19b16bf7f51d843895              679 main/binary-amd64/Packages.gz
+SHA512:
+ f4b005e366a6a4667b3bbc85b2c172222bb83b7011512d3f9f6c70e3e346d8048e9ec44fbb09a842c827f836b3a1c9dbf19e6c47d66a7e32a911147cb6fb2d0e              152 Release
+ d356a429e6d7be65f77ea8be8d564651cc6b5479c0589e1eb594d9524e11e0a8d41baaff106ffdbb41a6fe0464472cbf5f425b86337ec596063f1e53c0e6c30e              979 main/binary-amd64/Packages
+ adcbda22c9b60dc18ecdd31dae4070a1c80f35e9d4841e9a52baf3fe2a2557ff810c4a19168d434fa5257a7564ca488ef472fa828edfabdd14fae0d70f1abd5d              679 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEErnWz56pD/cXN8q5YPD8L2wOzN4kFAmpGdWUACgkQPD8L2wOz
+N4lMWg/+Mx3j5XaxgcVKwiSUBucRnhHv2IGry5hNSWxQc0N2aja+vTx3U7T26R/F
+Q04oggndYZrBHsDaOoVLl2uaPeUqX9dX7ZDIpYhE6EMYG3szaRsJ54I7pCJGt98x
+ranFDlcWR91hqRR5CiphspU5bGGXvBPAOX2/3GknHZOUtg6GdZxhjLLSpbTEQlgI
+3dAys0Npr/Q7Tw5VfBf1svlFUDx2DiR/7kZa9HQcW4ADMmsdTGIcQoeTFchJQxzT
+TjI+sU5VKwmVdsoiTzavl8VI43pGNduhOZUu0hb9wz/NJ+5ZzBu+suKw3ry9NLBY
+gQpUOvbF+txuFdZMwx0/kV6r45YoRJVQdZfBMSWdkTVEnC8Y2A5f8gK9rySnwOfF
+Ex50s7aIE3Oc2G/LbMLOO29vj6Pv+vdunVmpflZ7ZuoUmdVw0GRX5bUz3igDa8BY
+t3KU0R6apAyCLtoEKAJvIVLwcREr2bl+jqrh2LLb/BKlxwZwxxZcoC0Ux9zdlg7K
+qx9h9Bj1zxdzqPZLIIpXRZl5jNCher4/here6Z830RKsbbgumHXEuSh99m6xIT8q
+TvXEeCtaAJnfBDIOUIm4ukhP0ARv6NbQSx0GkAa6W9W7Oi+6OGTj2h2cdGcYbWqW
+AegSqnuPtypgp9dwX1cxLICZ7tG2tene6FaB28S3pFT+QH3c6Q8=
+=Sm6W
+-----END PGP SIGNATURE-----
