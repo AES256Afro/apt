@@ -20,3 +20,25 @@ Description: Trim, caption, and export video clips and GIFs
  overlays. Ships its own Python runtime (PyInstaller bundle); FFmpeg
  comes from the distro via the ffmpeg dependency.
 
+Package: videokidnapper
+Architecture: amd64
+Version: 1.4.1
+Priority: optional
+Section: video
+Maintainer: Christopher Courtney <sinth.tek@gmail.com>
+Installed-Size: 219032
+Depends: ffmpeg, libc6 (>= 2.35)
+Recommends: xclip
+Filename: pool/main/v/videokidnapper/videokidnapper_1.4.1_amd64.deb
+Size: 70422596
+MD5sum: 5fcdd5892118d5fcec1bde2917c8796b
+SHA1: f2d05a4ff71969c869c0716e1136a6c34b1f09c6
+SHA256: cbac0f32afccb34d76d514888a1ec392073e69c2ed0ed7337a33260e41ace94e
+SHA512: 9183ec1b032d1c3c9e9606ac30c7ba424735a653bedefa51b3ea43c74653945a7db8d8b84774e0cdc95916471fae334cd8ef746772e9e2ab2f5fa977af7c5ec4
+Homepage: https://github.com/AES256Afro/VideoKidnapper
+Description: Trim, caption, and export video clips and GIFs
+ Dark-themed desktop tool for trimming videos, downloading clips from
+ the open web, and exporting polished GIFs or MP4s with text and image
+ overlays. Ships its own Python runtime (PyInstaller bundle); FFmpeg
+ comes from the distro via the ffmpeg dependency.
+
