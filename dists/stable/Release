@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 09 Jul 2026 22:47:16 +0000
+Date: Thu, 09 Jul 2026 23:27:15 +0000
 Label: VideoKidnapper
 Origin: VideoKidnapper
 Suite: stable
 MD5Sum:
- c0446eecc08438fe48261784b249a656              152 Release
- 5dbad33f0ff59707ee5fb7024c34767b             5874 main/binary-amd64/Packages
- 4ec59541ca8935f27de62c3e47b0c2fd             1657 main/binary-amd64/Packages.gz
+ 54c8ca1a726f8e11fb7099b8666ece76              152 Release
+ 61b6485f38b629ddbd250e76be3d2335             6853 main/binary-amd64/Packages
+ d5e24d078649dc129bd0057a143fc14a             1850 main/binary-amd64/Packages.gz
 SHA1:
- c5d057555009720b8ff155a1f190dc52952138ec              152 Release
- 1592c5c37972933a3f9a91dbbb78d09ab0eeeaf3             5874 main/binary-amd64/Packages
- 94a6e3e8484724271cc2fde972cf0b987f636602             1657 main/binary-amd64/Packages.gz
+ 8484785bb232fc0daae05973e047d656755204af              152 Release
+ 20f91ec741bf012d1363dfc735be8169646513ce             6853 main/binary-amd64/Packages
+ 777a756add8c45fa145fd658af9fc3c107a9a2d7             1850 main/binary-amd64/Packages.gz
 SHA256:
- 8c5f6467080f381a7994d74b5fff4d4250264ad16019dd1c9d69a958db6deab6              152 Release
- 03681d5d781860cf5828796d32f5b8e2713aa24b54a758bc1d2d5ae8ecef716e             5874 main/binary-amd64/Packages
- b5b1da260721bab88e5ede4dc9942b01353efc1b75d6790bdfa8cd0230752a5f             1657 main/binary-amd64/Packages.gz
+ 75c24f266f50a805d7d9ed496bb45521a2429c228f8d3913a91a222068f02179              152 Release
+ 8df4d3b16726ab7ab5277913d8590b78eff61a0d435e86faa459010795999f17             6853 main/binary-amd64/Packages
+ 4b627842d2a6431f92d1d37edb24657b86f4dda28b09a5c47ca6f2a333331304             1850 main/binary-amd64/Packages.gz
 SHA512:
- 6abf65103f16edd14b0989bd03fa79fdc55b52b2e9fb924a85b1ba268b167f893e98bddeb5e582a41561ab4e56c085af743e6565e83b86cd2e76b180f7cdb5eb              152 Release
- 5e3714cb4bcc16c6cb71f3a6220b88612ea89ad796986fd1f3b2a27016ab833802adb3e55b6e4e955d3a9df2806d34c06461f6da88d32a745ddfd68bb409090c             5874 main/binary-amd64/Packages
- aadd32c99f26167f27d44d8a23fe3c58d8bf35d270af5b7a74fd0378334627cf2654115d8cae0b03de07e73b9ea58435c938ac1133516f90969714223c673e1b             1657 main/binary-amd64/Packages.gz
+ 6dd30d62c755995f320c3017cc6be16c521e4f5feafa3a1097805c1eef9fdad9655fde152d69bdbfb55f96dbe0dfa921f92b4a70d3bb2b835f35de8f38c19f75              152 Release
+ 3ef159588a24d46b096d8154143ee77647699a20074a280000ed1ad72550a18c481bcbb4a595d8a551418c9c23aaf060953777305096f3d65e3b5f436fd5ea8c             6853 main/binary-amd64/Packages
+ c9c8f5ed30ab5bed4661f891f2e05ad429748559f08b385de79e0e397517c75b138814eabd064517e7add4f439bbb1cf8dcc9c5b259f9a9ec0ee785b8c38acc6             1850 main/binary-amd64/Packages.gz
